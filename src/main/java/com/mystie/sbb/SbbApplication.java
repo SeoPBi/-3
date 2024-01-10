@@ -1,13 +1,13 @@
-package com.example.jumptospringboot3;
+package com.mystie.sbb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JumpToSpringBoot3Application {
+public class SbbApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JumpToSpringBoot3Application.class, args);
+        SpringApplication.run(SbbApplication.class, args);
     }
 
 }
