@@ -1,4 +1,4 @@
-package com.mystie.sbb;
+package com.mystie.sbb.question;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
